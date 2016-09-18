@@ -1,4 +1,3 @@
-
 https://codewithoutrules.com/2016/07/31/verified-fakes/
 
 https://github.com/cantino/huginn -- automation server; webhook; webtask
@@ -9,6 +8,7 @@ https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.
 
 https://techcrunch.com/2015/10/04/why-the-internet-needs-ipfs-before-its-too-late/
 
+---
 
 https://docs.minio.io/docs/minio-server-configuration-files-guide
 
@@ -18,6 +18,7 @@ https://www.stavros.io/posts/holy-grail-backups/
 
 https://attic-backup.org
 
+---
 
 https://laverna.cc/index.html -- Laverna: "Keep your notes private"
 
@@ -58,6 +59,7 @@ https://www.youtube.com/watch?v=E8I19uA-wGY -- Functional programming design pat
 TO READ: http://techcrunch.com/2016/04/12/everything-the-tech-world-says-about-marketing-is-wrong/
 TO READ: http://www.historytoday.com/ole-j-benedictow/black-death-greatest-catastrophe-ever
 
+---
 
 http://arxiv.org/pdf/1604.04382v1.pdf? -- Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks
 
@@ -82,6 +84,7 @@ http://lethalman.blogspot.hk/2016/04/cheap-docker-images-with-nix_15.html
 https://archive.org/details/davidwnivenjazz - The David W. Niven Collection of Early Jazz Legends, 1921-1991
 650 tapes · 1,000 hours · 1,378 WAV files · 637 GB · 691 JPEG scans of cassette liner cards & literature.
 
+---
 
 http://www.commitstrip.com/en/2016/04/13/quick-fix/?
 
@@ -105,30 +108,35 @@ http://andrewchen.co/why-your-product-will-never-seem-like-its-good-enough/
 
 http://www.faithtap.com/5525/dad-struggles-to-get-twin-babies-dressed-for-bed/
 
+---
+
 CHAN Yiu Chong, Christopher  陳耀莊
 2525-3382
 
 http://www.notaries.org.hk/en/Public/memberdetails.aspx?ID=49850
 Rooms 301-3, 3/F., China Insurance Group Bldg., 141 Des Voeux Road, Central, Hong Kong.
 
+---
+
 https://www.google.com.hk/maps/place/China+Insurance+Group+Bldg,+141+Des+Voeux+Rd+Central,+Central/@22.2855454,114.1529697,17z/data=!3m1!4b1!4m2!3m1!1s0x3404007cd06ba047:0xd9cd44c11830926?hl=en
 
+---
 
 https://www.youtube.com/watch?v=i71bbQqdy0M -- Running Virtual Teams -- Floyd Marinescu - hack.summit() 2016 by Pluralsight
   talks about metrics, work structure, meetings, company purpose, "be a culture hacker"
   cross timezone remote daily standups
 
+---
 
 https://www.youtube.com/watch?v=-detvIjWn4g -- Kent Beck - hack.summit() 2016 by Pluralsight
   how facebook prioretize/estimates
   high success management under pressure book
 
+---
 
 https://www.youtube.com/watch?v=7Zlp9rKHGD4 -- Robert C Martin - Functional Programming; What? Why? When?
 
-Charting libraries
-=====================
-
+### Charting libraries
 
 https://gionkunz.github.io/chartist-js/ -- Open Souce, 10k only, responsive, have animations, but no interactivity
 
@@ -156,14 +164,13 @@ http://highcharts.com --
 http://www.chartjs.org -- found it via https://github.com/tadeuzagallo/GithubPulse
 Libs ready to be used from ClojureScript
 
-On http://cljsjs.github.io/
-==========================
-
+### On http://cljsjs.github.io/
 
 http://c3js.org/
 
 http://dimplejs.org/
 
+---
 
 https://www.youtube.com/watch?v=JNMbLxqzGFA -- about plywood & the Split-Apply-Combine principle / "bayd3: Vadim Ogievetsky - Crossing the Chasm 10.29.15"
 
@@ -177,6 +184,7 @@ https://docs.google.com/forms/d/1ps0ph7Jf8RcLqOHeJ719Pgo46t3QrBzAH7V_zozZtlM/vie
 
 https://docs.google.com/spreadsheets/d/11yBwwVlJ-s3KnEsA8Jz3_VPGn1lHWF3YkpsFeP0tuZk/edit#gid=817441463 -- Remote Gigs / Devs results
 
+---
 
 http://flexboxgrid.com -- grid system with flexbox only
   ref: http://codepen.io/marcolago/pen/lqGFb -- 12 col flexbox grid in ~100LoC
@@ -201,6 +209,7 @@ https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/
 
 https://www.smashingmagazine.com/2015/12/website-layout-tools-compared-flexbox-vs-susy/
 
+---
 
 http://insideclojure.org/2016/03/16/collections/
 
@@ -250,6 +259,7 @@ http://spec.fm/podcasts/developer-tea/18431 -- 9 Questions You Should Always Ask
 
 http://spectrum.ieee.org/automaton/robotics/industrial-robots/sri-micro-robots-can-now-manufacture-their-own-tools
 
+---
 
 https://github.com/ssloy/tinyrenderer/wiki -- How OpenGL works: software renderer in 500 lines of code
 
@@ -261,11 +271,13 @@ http://gridstylesheets.org/
 
 http://domkm.com/posts/2014-01-08-garden-cssom-ccss/
 
+---
 
 http://www.tradingeconomics.com/thailand/bank-lending-rate
 
 http://www.kasikornbank.com/EN/RatesAndFees/Lending/Pages/Lending.aspx
 
+---
 
 https://github.com/andhart/bijou -- 2kB CSS framework
 
@@ -286,6 +298,7 @@ https://github.com/mylesmegyesi/sass-clojure
 
 http://hoplon.discoursehosting.net/t/trying-to-create-a-boot-task-to-compile-sass-files/386
 
+---
 
 https://matildah.github.io/posts/2016-01-30-unikernel-security.html -- unikernel single-address-space advantages
 
@@ -454,6 +467,7 @@ http://musicforprogramming.net/ -- #music
 
 http://thenewpollutants.bandcamp.com/releases -- Metropolis Rescore by The New Pollutants #music
 
+---
 
 http://stackoverflow.com/questions/31416378/recommended-way-to-declare-datomic-schema-in-clojure-application
 
@@ -467,6 +481,7 @@ http://aan.io/dumping-datomic-schema/
 
 http://docs.datomic.com/schema.html#id-6
 
+---
 
 http://daniel.haxx.se/blog/2016/01/19/subject-urgent-warning/
 
@@ -486,6 +501,7 @@ http://stuartsierra.com/tag/dos-and-donts
 
 http://stuartsierra.com/2016/01/09/how-to-name-clojure-functions
 
+---
 
 https://twitter.com/puffnfresh/status/521647022135590913 -- You can easily get #Nix working on #Heroku via proot: https://nixos.org/wiki/How_to_install_nix_in_home_(on_another_distribution)#PRoot_Installation - now we need a buildpack!
 
@@ -493,6 +509,7 @@ https://nixos.org/wiki/Docker
 
 https://pilot.co/blog/hosting-multiple-heroku-apps-on-a-single-domain/
 
+---
 
 http://yogthos.net/posts/2015-12-26-AOTGotchas.html -- TROUBLE WITH AOT
 
@@ -506,6 +523,7 @@ https://pilot.co/blog/minimum-viable-process/?ref=webdesignernews.com
 
 http://blogs.adobe.com/dreamweaver/2016/01/15-web-design-trends-to-look-for-in-2016.html?ref=webdesignernews.com
 
+---
 
 https://docs.oracle.com/javase/tutorial/essential/io/ -- Java IO docs; psmith ajanlasa
 
@@ -519,6 +537,7 @@ http://grokbase.com/p/gg/clojure/157e0yj75p/dont-support-clj-source-code-file-by
 
 http://stackoverflow.com/questions/13789092/length-of-the-first-line-in-an-utf-8-file-with-bom
 
+---
 
 http://docs.lighttable.com/tutorials/full/ -- Video tutorials
 
@@ -548,34 +567,44 @@ http://stackoverflow.com/questions/12928250/how-do-midje-and-speclj-compare -- m
 
 http://stackoverflow.com/questions/7710877/strengths-of-clojure-testing-frameworks
 
+---
 
 http://blog.ezyang.com/2015/12/the-convergence-of-compilers-build-systems-and-package-managers/
 
+---
 
 https://www.youtube.com/watch?v=EYmJEsReewo -- Getting Started with D3.js -- great slides but no voice :(
 
+---
 
 https://www.youtube.com/watch?v=DTjLcLytNt8 -- Introduction to working with D3.js
 -- Ayesgul Yonet, AnnieCannons
 
+---
 
 https://www.youtube.com/watch?v=MEOD-0LXTzg -- Robot heart beats
 
+---
 
 https://www.youtube.com/watch?v=Dc7qQWbrL4I -- Unbelievable Breakdance Skills
 
+---
 
 https://www.youtube.com/watch?v=rydSEME7KRg -- B-boy Junior Style ** Strong Monster ** -- fast-slow switch, fluid motions, hold-outs
 
+---
 
 https://www.youtube.com/watch?v=SYUbP0hDB3k -- Awesome Bboy next level skills TOP power moves 2015 (1080HD)
 
+---
 
 https://www.youtube.com/watch?v=qk00gbDwGqM -- SLIP | @PhillipChbeeb & Renee Kester | @ElliotMossMusic -- erie music with a metro station background
 
+---
 
 https://www.youtube.com/watch?v=K5AUTiRbRkI&feature=iv&src_vid=qQraeOG-3L8&annotation_id=annotation_2577089601 -- IDFWU - Big Sean ft E-40 - Choreography by Janelle Ginestra | Directed by Tim Milgram -- two crazy young girls in a car wearing blue dress
 
+---
 
 https://www.youtube.com/watch?v=ZNpn7FBp_9U -- Modern Layouts: Getting Out of Our Ruts with Jen Simmons -- CSS columns, shapes, gridsetapp.com
 
@@ -585,6 +614,7 @@ https://www.youtube.com/watch?v=R-fJWOO1bjE -- Comparing Static Site Engines wit
 
 https://www.youtube.com/watch?v=jeQCoiZT5gg -- Static Sites Can be the Solution (Simon Wood) -- with WordPress examples
 
+---
 
 http://cybergibbons.com/security-2/csl-dualcom-cs2300-signalling-unit-vulnerabilities/
 
@@ -610,6 +640,7 @@ http://gridlex.devlint.fr/ -- grid system, 35/25kb
 
 http://ppig.org/sites/default/files/2015-PPIG-26th-Sarkar.pdf -- The impact of syntax colouring on program comprehension
 
+---
 
 http://sigmajs.org/ -- Sigma is a JavaScript library dedicated to graph drawing
 
@@ -645,9 +676,11 @@ http://www.slideshare.net/denyslebediev/clojure-x2014?next_slideshow=1 -- flatgu
 
 http://www.slideshare.net/FalkoRiemenschneider/javafx-gui-architecture-with-clojure-coreasync
 
+---
 
 https://www.youtube.com/watch?v=1bNOO3xxMc0 -- TODO Zach Tellman - Everything Will Flow
 
+---
 
 https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html
 
@@ -665,6 +698,7 @@ http://www.seeklogo.net/technology-logos/get-it-on-google-play-vector-72814.html
 
 http://developer.android.com/distribute/tools/promote/badges.html -- official "GET IT ON Google play" badges
 
+---
 
 https://www.youtube.com/watch?v=2JNXx8VdbAE -- Frankenbuilds; if Agile is so good, why are our products so bad? - Gabrielle Benefield
 
@@ -678,11 +712,14 @@ https://vimeo.com/43659070 -- Dan North - Patterns of Effective Delivery
 
 http://schoolofdata.org/2013/04/25/social-network-analysis-for-journalists-using-the-twitter-api/ -- google-refine, clojure, twitter, gephi, graph
 
+---
+---
 
 http://www.slideshare.net/chassa/specificationbyexample-with-gherkin-16279535
 
 http://blog.pivotal.io/labs/labs/well-formed-stories
 
+---
 
 http://sqlkorma.com/docs -- clojure sqlite postgres mysql odbc interface
 
@@ -702,6 +739,7 @@ https://github.com/twpayne/s3-parallel-put
 
 https://aws.amazon.com/cli/ -- parallel put if aws s3 cp --recursive
 
+---
 
 https://speakerdeck.com/shriphani/clojure-scraping-overview -- xpath & enlive combo slides
 
@@ -713,6 +751,7 @@ http://lethain.com/scalable-scraping-in-clojure/
 
 https://github.com/ztellman/manifold/blob/master/docs/rationale.md -- common denominator between stream libs, including core.async
 
+---
 
 http://stackoverflow.com/questions/14972792/nginx-nginx-emerg-bind-to-80-failed-98-address-already-in-use
 
@@ -724,6 +763,7 @@ http://calvinx.com/2014/08/26/execution-discipline/ -- jack sparrow quote
 
 https://24ways.org/2013/keeping-parts-of-your-codebase-private-on-github/
 
+---
 
 http://discover.webydo.com/ -- Craft Your Design Without Code; Create Pixel-Perfect, Responsive Websites For Your Clients
 
@@ -757,6 +797,7 @@ http://lukevanderhart.com/2011/09/30/using-javascript-and-clojurescript.html -- 
 
 http://www.spacjer.com/blog/2014/09/12/clojurescript-javascript-interop/
 
+---
 
 https://groups.google.com/forum/#!topic/clojure/d_sA9LV2YHc -- falcor/relay references
 
@@ -764,6 +805,7 @@ https://www.youtube.com/watch?v=hOE6nVVr14c -- Keynote - JSON Graph: Reactive RE
 
 https://www.youtube.com/watch?v=z8UgDZ4rXBU -- Netflix JavaScript Talks - Falcor
 
+---
 
 http://swagger.io/
 
@@ -776,7 +818,6 @@ http://json-ld.org/
 https://www.google.com.hk/search?q=hal+hypermedia+application+language&oq=hal+hypermedia+application+language&aqs=chrome..69i57.12724j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 
 ####### To process #########
-
 
 https://www.youtube.com/watch?v=ho5sfNrjkoE -- Secrets of Battlefield Deaths - War Documentary
 
@@ -798,6 +839,7 @@ http://250bpm.com/blog:50 -- Finish your stuff
 
 http://calvinx.com/ -- Execution Discipline
 
+---
 
 http://brettterpstra.com/projects/nvalt/ -- notational velocity's fork. it's like evernote just "superior"
 
@@ -813,6 +855,7 @@ http://aan.io/clojure-newrelic-monitoring/
 
 http://luminati.io/?affiliate=L_omri&campaign=ab4 -- "Highly secure, high bandwidth VPN Network"
 
+---
 
 https://github.com/outpace/config#overview -- clojure config module
 
@@ -824,6 +867,7 @@ https://news.ycombinator.com/item?id=8402079 -- Hacker's Guide to Setting Up You
 
 http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac
 
+---
 
 http://ecorner.stanford.edu/authorMaterialInfo.html?mid=1327 -- core vs context
 
@@ -831,6 +875,7 @@ http://www.eclipse.org/jetty/
 
 http://cemerick.com/2011/04/22/adding-gzip-compression-to-a-clojure-webapp-in-30-seconds/
 
+---
 
 https://discussions.apple.com/thread/5063144?start=0&tstart=0 -- business apple id links
 
@@ -838,6 +883,7 @@ https://clojurefun.wordpress.com/2012/08/13/keyword-arguments-in-clojure/comment
 
 https://groups.google.com/forum/#!msg/clojure/gRFyzvRfPa8/QY_HvjaVfvUJ -- The philosophy behind Hoplon
 
+---
 
 https://skillsmatter.com/skillscasts/6038-datascript-for-web-development
 
@@ -849,6 +895,7 @@ http://adzerk.com/blog/2014/10/a-dashboard-with-hoplon/ - js component hoploniza
 
 https://github.com/adzerk/boot-cljs-example/blob/master/html/css/main.css#L1-L4 -- CSS reload webkit bug workaround
 
+---
 
 https://stormpath.com/start/ -- User Management API for Developers
 
@@ -856,6 +903,7 @@ http://cloudstitch.io/ -- google spreadsheet cells html5
 
 http://decomplecting.org/blog/2014/12/11/the-polyglots-dilemma/
 
+---
 
 http://www.pixelmonkey.org/2014/11/02/clojonic -- Clojonic: Pythonic Clojure
 
@@ -877,6 +925,7 @@ http://apple.stackexchange.com/questions/22785/how-do-i-disable-the-command-cont
 
 http://mumble.net/~campbell/emacs/paredit.html
 
+---
 
 http://openid.net/connect/
 
@@ -886,6 +935,7 @@ http://blog.tumy-tech.com/2012/08/15/open-source-identity-solutions/
 
 http://www.slideshare.net/confoo/opensource-authentication-and-authorization
 
+---
 
 https://clojuredocs.org/clojure.core/with-redefs
 
@@ -895,6 +945,7 @@ http://jayfields.com/expectations/
 
 http://blog.jayfields.com/2010/09/clojure-mocking.html
 
+---
 
 https://jonathansblog.co.uk/lg-34um95-osx-yosemite-resolution-bug
 
@@ -910,6 +961,7 @@ http://accessories.ap.dell.com/sna/productdetail.aspx?c=hk&l=en&s=dhs&cs=hkdhs1&
 
 http://webcache.googleusercontent.com/search?q=cache:-9jw1268sqQJ:www1.ap.dell.com/hk/en/home/monitors/mon_30_lcd/cp.aspx%3Frefid%3Dmon_30_lcd%26cs%3Dhkdhs1%26s%3Ddhs+&cd=1&hl=en&ct=clnk&gl=hk&client=safari -- all sorts of monitors
 
+---
 
 http://www.podfeet.com/blog/tutorials-5/lastpass-to-1password/
 
@@ -919,6 +971,7 @@ https://xkpasswd.net/s/
 
 http://www.podfeet.com/blog/2014/10/lastpass-vs-1password-which-one-is-right-for-you/
 
+---
 
 http://doc.cat-v.org/plan_9/1st_edition/designing_plan_9
 
@@ -926,6 +979,7 @@ http://documentup.com/aaronc/freactive
 
 http://www.slideshare.net/iXsystems/jordan-hubbard-free-bsd-the-next-10-years
 
+---
 
 https://bbs.archlinux.org/viewtopic.php?id=101750 -- PHP-FPM 5.3.3 + Nginx blank page
 
@@ -939,6 +993,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-n
 
 http://wiki.nginx.org/WordPress
 
+---
 
 https://gist.github.com/loganlinn/930c043331c52cb73a98 -- Light wrappers and utils for js/history
 
@@ -974,6 +1029,7 @@ http://www.webdesignai.com/top-wordpress-alternatives-2014/ -- 5 alternatives
 
 http://serverfault.com/questions/329592/how-does-try-files-work -- nginx
 
+---
 
 http://lsub.org/ls/clive.html
 
@@ -987,6 +1043,7 @@ https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastruct
 
 https://news.ycombinator.com/item?id=8606968 -- After Docker: Unikernels and Immutable Infrastructure
 
+---
 
 http://stackoverflow.com/a/16298330 -- clojure environment access
 
@@ -1010,6 +1067,7 @@ http://www.pawfal.org/dave/index.cgi?Projects/Scheme%20Bricks -- 3D, colored, bo
 
 http://yaxu.org/visualisation-of-live-code/
 
+---
 
 http://leonardo-m.livejournal.com/77079.html -- inconsolata-g
 
@@ -1019,6 +1077,7 @@ http://matthewmachuga.com/blog/2014/light-table-part-2-a-retrospective.html
 
 http://stackoverflow.com/questions/22168195/i-cant-find-a-light-table-cheat-sheet -- paredit
 
+---
 
 http://www.luminusweb.net/docs/security.md
 
@@ -1032,6 +1091,7 @@ https://www.youtube.com/watch?v=H_teKHH_Rk0 -- Test-driving Clojure in Light Tab
 
 https://www.youtube.com/watch?v=wBl0rYXQdGg -- Clojure development with Sublime Text 2
 
+---
 
 http://www.insanelymac.com/forum/topic/300072-wake-reason-rtc-alarm-how-to-deactivate/
 
@@ -1039,6 +1099,7 @@ http://ilostmynotes.blogspot.de/2012/03/computername-vs-localhostname-vs.html
 
 http://www.insanelymac.com/forum/topic/301118-computer-name-changing-constantly-two-or-one-network-interfaces-enabled/
 
+---
 
 http://www.charismac.com/instrument/images/PDF/Setting%20up%20a%20VPN%20on%20a%20Apple%20Network%20with%20airport%20Extreme.pdf
 
@@ -1048,6 +1109,7 @@ https://discussions.apple.com/thread/2665896?start=0&tstart=0
 
 http://www.podfeet.com/blog/tutorials-5/how-to-set-up-a-vpn-server-using-a-mac-2/
 
+---
 
 http://hoplon.discoursehosting.net/t/im-not-fully-understanding-cells/267/11 -- I'm not fully understanding cells
 
@@ -1081,6 +1143,7 @@ https://groups.google.com/forum/#!msg/clojure/gRFyzvRfPa8/8bBLYJIOK9EJ -- [ANN] 
 
 http://hoplon.discoursehosting.net/t/a-question-on-bindings-in-loop-tpl/65 -- A question on :bindings in loop-tpl
 
+---
 
 https://www.youtube.com/watch?v=OOvL6QAxRK4 -- Learning Functional Programming without Growing a Neckbeard
 
@@ -1098,6 +1161,7 @@ http://alandipert.tumblr.com/post/47444634908/structural-editing-revisited
 
 http://alandipert.tumblr.com/post/55324450821/faster-clojure-startup-with-class-data-sharing
 
+---
 
 https://www.youtube.com/watch?v=6mTbuzafcII&list=UU_QIfHvN9auy2CoOdSfMWDw&index=65 -- "Transducers" by Rich Hickey
 
@@ -1109,6 +1173,7 @@ https://www.youtube.com/watch?v=tJr_TD1BtF0&list=UU_QIfHvN9auy2CoOdSfMWDw --  "C
 
 https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw/videos -- Strange Loop video channel
 
+---
 
 http://www.braveclojure.com/ -- Clojure for the Brave and True ( a Book for Beginners )
 
@@ -1128,6 +1193,7 @@ http://www.lispcast.com/what-web-framework-should-i-use -- clojure, lib-noir, ho
 
 http://webcache.googleusercontent.com/search?q=cache:OtN3LcUbOdMJ:markwatson.com/blog/2014-01/new-stacks.html+&cd=7&hl=en&ct=clnk&gl=hk&client=firefox-a -- horizontal scroll flickering character positions
 
+---
 
 https://github.com/clojure/data.generators/blob/bf2eb5288fb59045041aec01628a7f53104d84ca/src/main/clojure/clojure/data/generators.clj#L208
 
@@ -1139,6 +1205,7 @@ https://github.com/zcaudate/adi -- An Object/Map Based Syntax for Datomic
 
 http://z.caudate.me/why-the-future-is-not-restful/
 
+---
 
 https://www.youtube.com/watch?v=asLUTiJJqdE --  Robert C Martin(Uncle Bob) -Clean Architecture and Design-2012 COHAA The Path to Agility Conference
 
@@ -1146,6 +1213,7 @@ https://groups.google.com/forum/#!msg/datomic/Z01iXKwhCiE/ZllF8BRWgwIJ -- Copy d
 
 http://virtuallyhyper.com/2013/08/install-fedora-19-on-mac-book-pro/
 
+---
 
 https://news.ycombinator.com/item?id=6697323 -- Datomic Pro Starter Edition announcement
 
@@ -1155,6 +1223,7 @@ http://www.dotkam.com/2011/07/06/noram-db-if-it-does-not-fit-in-ram-i-will-quiet
 
 http://nomadpreneur.blogspot.hk/2013/02/getting-started-with-lein-datomic.html
 
+---
 
 https://github.com/marick/Midje/
 
@@ -1220,6 +1289,7 @@ https://gist.github.com/allgress/11348685 -- Test use of DataScript for state ma
 
 https://groups.google.com/forum/#!topic/clojurescript/dJa4HZ-Bg7k -- Comparing React.js libraries
 
+---
 
 http://corfield.org/blog/post.cfm/lighttable-comes-of-age
 
@@ -1247,11 +1317,13 @@ http://www.infoq.com/presentations/tdd-variants -- Jason Felice, maitria
 
 https://mysnoring-solution.com/fs/?aid=TSAFS
 
+---
 
 http://www.techsonian.net/2014/09/from-backbone-to-react-our-experience-scaling-a-web-application/
 
 http://blog.petersobot.com/pipes-and-filters
 
+---
 
 http://cemerick.com/2013/11/18/results-of-the-2013-state-of-clojure-clojurescript-survey/
 
@@ -1267,6 +1339,7 @@ http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/
 
 http://www.infoq.com/news/2014/01/om-react
 
+---
 
 https://github.com/buaazp/zimg
 
@@ -1274,6 +1347,7 @@ http://blogs.msdn.com/b/ie/archive/2014/09/05/making-the-web-just-work-with-any-
 
 http://camlistore.org/
 
+---
 
 http://www.english.illinois.edu/-people-/faculty/debaron/482/482readings/06%20when%20wordstar%20was%20king.pdf
 
@@ -1291,6 +1365,7 @@ http://dbs-are-fn.com/2013/datomic_ordering_of_cardinality_many/
 
 http://tonsky.me/blog/unofficial-guide-to-datomic-internals/
 
+---
 
 https://docs.google.com/presentation/d/1afMLTCpRxhJpurQ97VBHCZkLbR1TEsRnd3yyxuSQ5YY/preview?sle=true#slide=id.g380053cce_1708 -- Alex Matchneer: Ember.setState(this.get(React))
 
@@ -1298,6 +1373,7 @@ https://gist.github.com/haksior/2397208 --  Setting Up Clojure on OS X
 
 https://blog.twitter.com/2013/new-tweets-per-second-record-and-how
 
+---
 
 https://groups.google.com/forum/#!topic/clojurescript/o0W57ptvPc8 -- ANN: DataScript, in-memory database and datalog queries in ClojureScript
 
@@ -1313,246 +1389,10 @@ https://speakerdeck.com/pbailis/coordination-and-the-art-of-scaling
 
 https://github.com/platanus/angular-restmod
 
+---
 
 https://github.com/technomancy/leiningen/wiki/Faster
 
 https://github.com/Homebrew/homebrew/issues/29610
 
 http://derjan.io/blog/2013/11/25/setup-mac-for-development/
-
-
-https://sublime.wbond.net/installation
-
-https://github.com/wbond/sublime_package_control/issues/736
-
-https://github.com/wuub/SublimeREPL
-
-
-http://www.tinc-vpn.org/documentation/Example-configuration.html#Example-configuration
-
-http://www.tinc-vpn.org/pipermail/tinc/2012-April/002939.html -- Lion OS X tinc issues.
-
-https://sourceforge.net/p/tuntaposx/mailman/message/21251067/ -- Re: [tuntaposx-users] tun/tap devices not opening on Leopard 10.5.6
-
-http://blog.acmelab.org/2008/07/20/mac-os-x-openvpn-bridge-ssh-tunnel-vpn-goodness/
-
-https://www.angryadmin.co.uk/?p=369 -- Tunneling CIFS over SSH in Windows 7
-
-http://www.nikhef.nl/~janjust/CifsOverSSH/VistaLoopback.html
-
-http://stackoverflow.com/questions/17510101/how-do-i-set-an-ip-address-for-tun-interface-on-osx-without-destination-address
-
-http://www.bertera.it/index.php/2008/12/22/vpn-layer-3-con-openssh/
-
-http://www.bertera.it/index.php/2012/03/04/how-to-push-a-public-ip-on-your-laptop-using-ssh-bridged-tunnel/
-
-https://wiki.archlinux.org/index.php/VPN_over_SSH
-
-https://bugs.kde.org/show_bug.cgi?id=178678 -- Bug 178678 - navigating sshfs-mounted file systems is extremely slow in dolphin and konqueror compared to command line
-
-http://stackoverflow.com/questions/7245837/using-git-over-sshfs-is-too-slow
-
-http://askubuntu.com/questions/128722/sshfs-very-slow-in-12-04
-
-http://askubuntu.com/questions/427777/editing-remote-files-via-sshfs-mount-very-slow-sublime-text
-google: "customer gateway amazon vpc"
-
-https://docs.openvpn.net/how-to-tutorialsguides/administration/extending-vpn-connectivity-to-amazon-aws-vpc-using-aws-vpc-vpn-gateway-service/
-
-http://complaintsincorporated.com/2012/07/27/amazon-vpc-adventure-customer-gateway-on-the-cheap/
-
-https://www.pfsense.org/
-
-http://bleikertz.com/blog/amazon_vpc_with_linux.html
-
-
-http://www.youtube.com/watch?v=Irf-HJ4fBls -- Euclideon Geoverse 2013
-
- http://tel.github.io/2014/08/08/six_points_about_type_safety/
-
-
-https://medium.com/opinionated-angularjs/angular-model-objects-with-javascript-classes-2e6a067c73bc
-
-
-http://stackoverflow.com/questions/18473574/how-to-use-scope-variables-with-the-controller-as-syntax-in-jasmine
-
-https://github.com/angular/angular.js/blob/v1.2.0-rc.3/test/ng/controllerSpec.js#L112
-
-http://toddmotto.com/digging-into-angulars-controller-as-syntax/
-
-
-http://www.pl-enthusiast.net/2014/08/05/type-safety/
-
-http://newsoffice.mit.edu/2014/algorithm-recovers-speech-from-vibrations-0804
-
-http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/
-
-
-https://www.youtube.com/watch?v=V2Q13hzTGmA -- [JSConfUS 2013] Domenic Denicola: Boom, Promises/A+ Was Born
-
-
-https://github.com/moll/js-must
-
-https://github.com/visionmedia/mocha/issues/1195 -- #1164 breaks before-each blocks' contexts
-
-https://github.com/visionmedia/mocha/pull/1164 -- Make sibling Suites have separate contexts
-
-
-https://medium.com/the-physics-arxiv-blog/the-face-recognition-algorithm-that-finally-outperforms-humans-2c567adbf7fc
-
-https://github.com/olov/ng-annotate
-
-http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/
-
-http://6octaves.blogspot.hk/2014/07/interview-with-demoscener-kb-farbrausch.html
-
-http://www.bhorowitz.com/how_to_ruin_your_company_with_one_bad_process
-
-
-https://www.bufferbloat.net/projects/cerowrt
-
-http://www.dd-wrt.com/wiki/index.php/Netgear_WNDR3800
-
-http://www.dd-wrt.com/wiki/index.php/TP-Link_TL-WDR4300
-
-
-http://dddcommunity.org/case-studies/rainsberger_jb_2003_10-html/
-
-https://github.com/angular/protractor/issues/562 -- clear() or sendKeys('') not working on input types: date, time, datetime-local, month, or week
-
-http://www.ng-newsletter.com/posts/practical-protractor.html
-
-https://github.com/wearefractal/vinyl
-
-
-https://www.npmjs.org/package/gulp-inject  -- more generic insertion tool; works on json too
-
-https://github.com/filipsobczak/gulp-linker/  -- insert script tags into html
-
-https://github.com/marius-t/gulp-jade2/  -- same as gulp-jade, but supports to change output extention (useful for AngularJS $templateCache)
-
-https://github.com/phated/gulp-jade/
-
-https://github.com/coursera/less2stylus
-
-https://github.com/andreypopp/less2stylus
-
-https://github.com/coursera/bootstrap3-stylus
-
-https://github.com/Acquisio/bootstrap-stylus  -- uses https://github.com/visionmedia/nib
-
-http://webdesign.tutsplus.com/articles/why-i-choose-stylus-and-you-should-too--webdesign-18412
-
-http://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-preprocessor-shootout--net-24320
-
-
-https://github.com/samora/ng-launchpad
-
-https://medium.com/@PapaSamo247/launch-your-angular-js-development-on-a-solid-structure-ac9dd3537553
-
-http://blog.overzealous.com/post/74121048393/why-you-shouldnt-create-a-gulp-plugin-or-how-to-stop
-
-https://gist.github.com/OverZealous/8551946 -- ngBoilerplate
-
-
-http://blog.hut8labs.com/no-deadlines-for-you.html
-
-http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript
-
-https://www.npmjs.org/package/async-q
-
-http://promise-nuggets.github.io/articles/16-map-limit.html  -- async.mapLimit & promises
-
-http://www.slideshare.net/sergimansilla/architecting-large-nodejs-applications-14912706
-
-https://c9.io/site/blog/2012/07/the-open-source-node-libraries-powering-cloud9/  -- architect, smith
-
-http://www.mariocasciaro.me/dependency-injection-in-node-js-and-other-architectural-patterns  -- Scatter, Architect, Broadway, Wire, Seneca, Intravenous
-
-https://github.com/cujojs/wire/blob/master/docs/dom.md
-
-https://github.com/cujojs/wire/blob/master/docs/functions.md
-
-https://github.com/cujojs/wire/blob/master/docs/connections.md
-
-https://github.com/cujojs/wire/blob/master/docs/configure.md
-
-http://www.sublimetext.com/forum/viewtopic.php?f=3&t=14250  -- ST3 build systems with variants in project
-
-http://stackoverflow.com/questions/3618078/pipe-only-stderr-through-a-filter
-
-https://sublimetext.userecho.com/topic/55640-htmlansi-in-output/
-
-https://www.sublimetext.com/forum/viewtopic.php?f=3&t=13998 -- "Ansi color codes in build output"
-g: sublime text 3 build output color
-
-http://blog.aculios.com/post/58106882691/test-on-save-for-sublime-text
-
-http://docs.sublimetext.info/en/latest/reference/build_systems.html
-
-http://www.klaascuvelier.be/2013/06/sublime-command-on-save/
-g: sublime execture on save
-
-https://github.com/cujojs/wire/blob/master/docs/components.md
-
-https://github.com/cujojs/wire/blob/master/docs/wire.md
-
-https://github.com/briancavalier/hello-wire.js#readme
-
-http://debu.gs/entries/inferno-part-0-namespaces
-
-http://know.cujojs.com/tutorials -- finished
-
-http://know.cujojs.com/tutorials/modules/consuming-locating-modules-in-amd
-
-http://know.cujojs.com/tutorials/modules/consuming-modules-module-ids
-
-http://know.cujojs.com/tutorials/modules/authoring-umd-modules
-
-http://know.cujojs.com/tutorials/modules/authoring-cjs-modules
-
-http://know.cujojs.com/tutorials/modules/authoring-amd-modules
-
-https://github.com/cujojs/wire/blob/master/docs/concepts.md
-
-https://github.com/visionmedia/mocha/pull/329  -- promise support added after 2 years of community begging
-
-http://lostechies.com/derickbailey/2012/08/17/asynchronous-unit-tests-with-mocha-promises-and-winjs/
-
-https://github.com/cujojs/when/blob/master/docs/api.md
-
-http://howtonode.org/promises  -- simple intro
-
-https://github.com/Sage/streamlinejs
-
-http://bjouhier.wordpress.com/2011/01/09/asynchronous-javascript-the-tale-of-harry/  -- streamlinejs
-
-http://know.cujojs.com/tutorials/aop/intro-to-aspect-oriented-programming
-
-http://thanpol.as/javascript/promises-a-performance-hits-you-should-be-aware-of/
-
-http://know.cujojs.com/tutorials/async/mastering-async-error-handling-with-promises
-
-http://know.cujojs.com/tutorials/async/simplifying-async-with-promises
-
-http://know.cujojs.com/tutorials/async/async-programming-is-messy
-
-http://documentup.com/kriskowal/q/
-
-https://github.com/luciotato/waitfor
-
-https://github.com/laverdet/node-fibers
-
-https://github.com/luciotato/waitfor-es6
-
-http://blogs.atlassian.com/2013/11/harmony-generators-and-promises-for-node-js-async-fun-and-profit/
-
-http://domenic.me/2012/10/14/youre-missing-the-point-of-promises/
-
-https://github.com/aws/aws-sdk-js/issues/13
-
-https://github.com/cujojs/wire
-
-http://www.slideshare.net/briancavalier/ioc-javascript
-
-https://www.google.com/search?q=javascript+dependency+injection+framework&oq=javascript+dependency+injection+framework&aqs=chrome..69i57.7382j0j4&sourceid=chrome&es_sm=91&ie=UTF-8
